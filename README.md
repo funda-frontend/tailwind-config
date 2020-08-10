@@ -12,7 +12,7 @@ If you want to extend the existing config:
 ```js
 // tailwind.config.js
 
-const extendConfig = require('./funda-tailwind-config').extendConfig
+const extendConfig = require('@funda/tailwind-config').extendConfig
 
 module.exports = extendConfig({
   theme: {
@@ -29,7 +29,7 @@ If you want to use the config as is:
 ```js
 // tailwind.config.js
 
-const config = require('./funda-tailwind-config')
+const config = require('@funda/tailwind-config')
 
 module.exports = config;
 ```
