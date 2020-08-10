@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/funda-frontend/tailwind-config/compare/v1.0.0...v1.0.1) (2020-08-10)
+
+
+### Bug Fixes
+
+* **ci:** fix package scope ([05838c7](https://github.com/funda-frontend/tailwind-config/commit/05838c7bc8f51c6dbe108412f04dd163d175ee5e))
+
 # 1.0.0 (2020-08-10)
 
 
