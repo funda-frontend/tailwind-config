@@ -29,7 +29,7 @@ If you want to use the config as is:
 ```js
 // tailwind.config.js
 
-const config = require('@funda/tailwind-config')
+const config = require('@funda/tailwind-config').config
 
 module.exports = config;
 ```

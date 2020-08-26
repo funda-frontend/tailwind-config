@@ -8,6 +8,9 @@
 const merge = require('lodash/merge')
 
 const config = {
+  future: {
+    removeDeprecatedGapUtilities: true,
+  },
   purge: [
     './**/*.vue',
     './**/*.cshtml'
@@ -54,8 +57,11 @@ const config = {
   }
 }
 
-exports.extendConfig = function (userConfig) {
+const extendConfig = function (userConfig) {
     return merge(config, userConfig)
 }
 
-module.exports = config
+module.exports = {
+  config,
+  extendConfig
+}
