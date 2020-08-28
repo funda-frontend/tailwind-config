@@ -1,6 +1,4 @@
-
-
-## Usage
+# Usage
 
 ```
 npm install @funda/tailwind-config
@@ -18,7 +16,7 @@ module.exports = extendConfig({
   theme: {
     extend: {
       padding: {
-        33: '2rem'
+        37: '2rem'
       }
     }
   }
