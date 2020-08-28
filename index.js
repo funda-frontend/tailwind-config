@@ -15,7 +15,7 @@ const config = {
     './**/*.vue',
     './**/*.cshtml'
   ],
-  prefix: 'fd-',
+  prefix: 'ui-',
   theme: {
     colors: {
       'orange-1': '#de9000',
@@ -50,9 +50,6 @@ const config = {
       fontFamily: {
         proxima: '"Proxima Nova", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"'
       },
-      padding: {
-        7: '1.75rem'
-      }
     }
   }
 }
