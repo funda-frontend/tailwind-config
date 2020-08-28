@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/funda-frontend/tailwind-config/compare/v1.0.1...v1.1.0) (2020-08-26)
+
+
+### Features
+
+* **config:** remove deprecated warnings, fix export ([54e398c](https://github.com/funda-frontend/tailwind-config/commit/54e398cf3059ec3746303ba38e1d4bb07b9e2227))
+
 ## [1.0.1](https://github.com/funda-frontend/tailwind-config/compare/v1.0.0...v1.0.1) (2020-08-10)
 
 
