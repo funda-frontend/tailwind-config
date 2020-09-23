@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/funda-frontend/tailwind-config/compare/v2.0.0...v2.1.0) (2020-09-23)
+
+
+### Features
+
+* **config:** remove purging warnings, add purge options for html files ([09831c7](https://github.com/funda-frontend/tailwind-config/commit/09831c73874c6599cf47d1783c24b23acd5e49f9))
+
 # [2.0.0](https://github.com/funda-frontend/tailwind-config/compare/v1.1.0...v2.0.0) (2020-08-28)
 
 
