@@ -10,10 +10,12 @@ const merge = require('lodash/merge')
 const config = {
   future: {
     removeDeprecatedGapUtilities: true,
+    purgeLayersByDefault: true,
   },
   purge: [
     './**/*.vue',
-    './**/*.cshtml'
+    './**/*.cshtml',
+    './**/*.html'
   ],
   prefix: 'ui-',
   theme: {
