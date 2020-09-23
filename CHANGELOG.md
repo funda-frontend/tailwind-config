@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/funda-frontend/tailwind-config/compare/v1.1.0...v2.0.0) (2020-08-28)
+
+
+### Bug Fixes
+
+* **docs:** update docs for major bump ([0d1f72c](https://github.com/funda-frontend/tailwind-config/commit/0d1f72c3876c0a05a855bea9ddc840399470072e))
+
+
+### BREAKING CHANGES
+
+* **docs:** changed from fd- to ui- prefix
+
 # [1.1.0](https://github.com/funda-frontend/tailwind-config/compare/v1.0.1...v1.1.0) (2020-08-26)
 
 
