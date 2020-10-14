@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/funda-frontend/tailwind-config/compare/v2.1.0...v2.2.0) (2020-10-14)
+
+
+### Features
+
+* **config:** add 1.8 futures config ([6d88392](https://github.com/funda-frontend/tailwind-config/commit/6d88392f5d0009a20a6ae1ba6a2abf4389a19553))
+
 # [2.1.0](https://github.com/funda-frontend/tailwind-config/compare/v2.0.0...v2.1.0) (2020-09-23)
 
 
