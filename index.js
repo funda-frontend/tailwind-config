@@ -11,6 +11,8 @@ const config = {
   future: {
     removeDeprecatedGapUtilities: true,
     purgeLayersByDefault: true,
+    defaultLineHeights: true,
+    standardFontWeights: true,
   },
   purge: [
     './**/*.vue',
