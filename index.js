@@ -19,7 +19,6 @@ const config = {
     './**/*.cshtml',
     './**/*.html'
   ],
-  prefix: 'ui-',
   theme: {
     colors: {
       'orange-1': '#de9000',
