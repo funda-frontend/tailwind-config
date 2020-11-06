@@ -1,3 +1,16 @@
+# [2.3.0](https://github.com/funda-frontend/tailwind-config/compare/v2.2.0...v2.3.0) (2020-11-06)
+
+
+### Bug Fixes
+
+* **config:** remove main.yml ([b9ed5af](https://github.com/funda-frontend/tailwind-config/commit/b9ed5af55e009b75b35d96f238e3e799bd4273a0))
+* **prefix:** remove ui prefix ([3951cf1](https://github.com/funda-frontend/tailwind-config/commit/3951cf12c726ab75d2c5bc6e537cfc828a7dceaf))
+
+
+### Features
+
+* **semantic-release:** add semantic release configs ([f8d820c](https://github.com/funda-frontend/tailwind-config/commit/f8d820ccf66513a50aaec8825bff712f676c314c))
+
 # [2.2.0](https://github.com/funda-frontend/tailwind-config/compare/v2.1.0...v2.2.0) (2020-10-14)
 
 
