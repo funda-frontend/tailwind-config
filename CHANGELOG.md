@@ -1,3 +1,13 @@
+# [3.0.0](https://github.com/funda-frontend/tailwind-config/compare/v2.3.0...v3.0.0) (2020-11-12)
+
+
+* refactor!: only export shared configs ([832fbe5](https://github.com/funda-frontend/tailwind-config/commit/832fbe56469ed4418e4b714890fb01086801c42b))
+
+
+### BREAKING CHANGES
+
+* standalone config and extendConfig is removed
+
 # [2.3.0](https://github.com/funda-frontend/tailwind-config/compare/v2.2.0...v2.3.0) (2020-11-06)
 
 
