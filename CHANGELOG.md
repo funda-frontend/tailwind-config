@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/funda-frontend/tailwind-config/compare/v3.0.0...v3.1.0) (2020-11-20)
+
+
+### Features
+
+* **ui:** add ui config ([2177392](https://github.com/funda-frontend/tailwind-config/commit/2177392cde2d2600a5f63911feef758f5e4e0981))
+
 # [3.0.0](https://github.com/funda-frontend/tailwind-config/compare/v2.3.0...v3.0.0) (2020-11-12)
 
 
