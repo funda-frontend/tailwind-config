@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/funda-frontend/tailwind-config/compare/v3.1.0...v3.2.0) (2020-12-07)
+
+
+### Features
+
+* **variant:** Added background color for disabled ([be274d9](https://github.com/funda-frontend/tailwind-config/commit/be274d9d62585b413df5a3f9fff829ad55388431))
+
 # [3.1.0](https://github.com/funda-frontend/tailwind-config/compare/v3.0.0...v3.1.0) (2020-11-20)
 
 
