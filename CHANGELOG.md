@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/funda-frontend/tailwind-config/compare/v3.2.0...v3.2.1) (2020-12-16)
+
+
+### Bug Fixes
+
+* **variants:** extend ([647323c](https://github.com/funda-frontend/tailwind-config/commit/647323c5ec2edc568ebd598a10ba2a22370edf99))
+
 # [3.2.0](https://github.com/funda-frontend/tailwind-config/compare/v3.1.0...v3.2.0) (2020-12-07)
 
 
