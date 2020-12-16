@@ -85,7 +85,9 @@ module.exports = {
     },
     variants: {
         opacity: ['group-hover'],
-        outline: ['active, focus'],
-        backgroundColor: ['disabled'],
+        extend: {
+            outline: ['hover', 'active'],
+            backgroundColor: ['disabled'],
+        },
     },
 };
