@@ -33,6 +33,7 @@ module.exports = {
             'yellow-2': '#fdfae5',
             'red-1': '#f03c30',
             'red-2': '#fbebea',
+            'red-3': '#dd1d10',
             'dark-1': '#333',
             'dark-2': '#666',
             'dark-3': '#999',
