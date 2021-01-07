@@ -83,6 +83,12 @@ module.exports = {
                 '2/3': '66%',
             },
         },
+      screens: {
+        sm: "500px",
+        md: "760px",
+        lg: "1020px",
+        xl: "1200px",
+      },
     },
     variants: {
         opacity: ['group-hover'],
