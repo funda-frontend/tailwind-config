@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/funda-frontend/tailwind-config/compare/v3.3.0...v4.0.0) (2021-01-07)
+
+
+### Bug Fixes
+
+* **breakpoint:** add custom breakpoints ([86022f6](https://github.com/funda-frontend/tailwind-config/commit/86022f6f2898c49c84d2d25f1ad5ece5565fc6aa))
+
+
+### BREAKING CHANGES
+
+* **breakpoint:** values for all breakpoints are updated to match funda bp
+
 # [3.3.0](https://github.com/funda-frontend/tailwind-config/compare/v3.2.1...v3.3.0) (2020-12-23)
 
 
