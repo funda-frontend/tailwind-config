@@ -52,6 +52,9 @@ module.exports = {
             height: {
                 11: '2.75rem',
             },
+            width: {
+                11: '2.75rem',
+            },
             keyframes: {
                 'ui-fade-right': {
                     '0%': {
