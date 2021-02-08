@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/funda-frontend/tailwind-config/compare/v4.0.0...v4.1.0) (2021-02-08)
+
+
+### Features
+
+* **tailwind config:** extend width ([fdf0df3](https://github.com/funda-frontend/tailwind-config/commit/fdf0df3c7a56faec38655075068b8b1ba3a077bd))
+
 # [4.0.0](https://github.com/funda-frontend/tailwind-config/compare/v3.3.0...v4.0.0) (2021-01-07)
 
 
