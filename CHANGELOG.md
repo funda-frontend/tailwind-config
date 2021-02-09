@@ -1,3 +1,10 @@
+# [4.2.0](https://github.com/funda-frontend/tailwind-config/compare/v4.1.0...v4.2.0) (2021-02-09)
+
+
+### Features
+
+* **tailwind config:** extend config with inset and maxheight options ([9bb2c7a](https://github.com/funda-frontend/tailwind-config/commit/9bb2c7a1eed2ba8d6f1a9272867da2020f3494a8))
+
 # [4.1.0](https://github.com/funda-frontend/tailwind-config/compare/v4.0.0...v4.1.0) (2021-02-08)
 
 
