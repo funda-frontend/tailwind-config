@@ -93,8 +93,14 @@ module.exports = {
                 '1/3': '33%',
                 '2/3': '66%',
             },
+            margin: {
+                9: '2.5rem',
+                11: '2.75rem',
+                12: '3rem',
+            },
             padding: {
                 9: '2.25rem',
+                12: '3rem',
             },
         },
       screens: {
