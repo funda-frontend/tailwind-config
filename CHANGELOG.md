@@ -1,3 +1,10 @@
+# [4.4.0](https://github.com/funda-frontend/tailwind-config/compare/v4.3.0...v4.4.0) (2021-02-09)
+
+
+### Features
+
+* **config:** extend spacing margin + padding ([abd67b9](https://github.com/funda-frontend/tailwind-config/commit/abd67b96da2e78c3b88d9404cda6319edf3539a3))
+
 # [4.3.0](https://github.com/funda-frontend/tailwind-config/compare/v4.2.0...v4.3.0) (2021-02-09)
 
 
