@@ -94,7 +94,7 @@ module.exports = {
                 '2/3': '66%',
             },
             margin: {
-                9: '2.5rem',
+                10: '2.5rem',
                 11: '2.75rem',
                 12: '3rem',
             },
