@@ -1,3 +1,10 @@
+# [4.3.0](https://github.com/funda-frontend/tailwind-config/compare/v4.2.0...v4.3.0) (2021-02-09)
+
+
+### Features
+
+* **config:** extend padding ([b1442dc](https://github.com/funda-frontend/tailwind-config/commit/b1442dc144a32b7300e8c693dc416acf7e7058e7))
+
 # [4.2.0](https://github.com/funda-frontend/tailwind-config/compare/v4.1.0...v4.2.0) (2021-02-09)
 
 
