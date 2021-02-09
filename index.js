@@ -93,6 +93,9 @@ module.exports = {
                 '1/3': '33%',
                 '2/3': '66%',
             },
+            padding: {
+                9: '2.25rem',
+            },
         },
       screens: {
         sm: "500px",
