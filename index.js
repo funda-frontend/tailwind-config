@@ -74,9 +74,17 @@ module.exports = {
                 'fade-right-leave-active':
                     'ui-fade-right 0.6s 1 ease-out reverse',
             },
-            inset: {
+            inset: (theme, { negative }) => ({
+                ...theme('spacing'),
+                ...negative(theme('spacing')),
                 '1/2': '50%',
-            },
+            }),
+            maxHeight: (theme) => ({
+                ...theme('spacing'),
+                120: '30rem',
+                full: '100%',
+                screen: '100vh',
+            }),
             maxWidth: {
                 '1/3': '33%',
                 '2/3': '66%',
