@@ -12,7 +12,6 @@ module.exports = {
         defaultLineHeights: true,
         standardFontWeights: true,
     },
-    purge: ['./**/*.vue', './**/*.cshtml', './**/*.html'],
     theme: {
         colors: {
             'orange-1': '#de9000',
