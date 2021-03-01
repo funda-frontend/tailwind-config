@@ -6,12 +6,6 @@
  */
 
 module.exports = {
-    future: {
-        removeDeprecatedGapUtilities: true,
-        purgeLayersByDefault: true,
-        defaultLineHeights: true,
-        standardFontWeights: true,
-    },
     theme: {
         colors: {
             'orange-1': '#de9000',
@@ -48,12 +42,6 @@ module.exports = {
                 proxima:
                     '"Proxima Nova", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
             },
-            height: {
-                11: '2.75rem',
-            },
-            width: {
-                11: '2.75rem',
-            },
             keyframes: {
                 'ui-fade-right': {
                     '0%': {
@@ -73,33 +61,16 @@ module.exports = {
                 'fade-right-leave-active':
                     'ui-fade-right 0.6s 1 ease-out reverse',
             },
-            inset: (theme, { negative }) => ({
-                ...theme('spacing'),
-                ...negative(theme('spacing')),
-                '1/2': '50%',
-            }),
-            maxHeight: (theme) => ({
-                ...theme('spacing'),
+            maxHeight: {
                 120: '30rem',
-                full: '100%',
-                screen: '100vh',
-            }),
+            },
             maxWidth: {
-                '1/3': '33%',
-                '2/3': '66%',
+                '1/3': '33.333%',
+                '2/3': '66.666%',
             },
             flex: {
-                '1/3': '33%',
-                '2/3': '66%',
-            },
-            margin: {
-                10: '2.5rem',
-                11: '2.75rem',
-                12: '3rem',
-            },
-            padding: {
-                9: '2.25rem',
-                12: '3rem',
+                '1/3': '33.333%',
+                '2/3': '66.666%',
             },
         },
       screens: {
