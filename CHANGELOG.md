@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/funda-frontend/tailwind-config/compare/v4.4.0...v5.0.0) (2021-03-01)
+
+
+### Features
+
+* **purge:** remove purge ([b985e05](https://github.com/funda-frontend/tailwind-config/commit/b985e052fb7153e78e4742c6ce3c63fcae6cf0e6))
+
+
+### BREAKING CHANGES
+
+* **purge:** purge settings will have to be set by project
+
 # [4.4.0](https://github.com/funda-frontend/tailwind-config/compare/v4.3.0...v4.4.0) (2021-02-09)
 
 
