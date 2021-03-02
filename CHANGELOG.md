@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/funda-frontend/tailwind-config/compare/v5.0.0...v6.0.0) (2021-03-02)
+
+
+### Features
+
+* **tailwind2:** remove extra configs ([84a90aa](https://github.com/funda-frontend/tailwind-config/commit/84a90aa1be7fc7c0583d6f0746c4d088a5444178))
+
+
+### BREAKING CHANGES
+
+* **tailwind2:** requires tailwindcss>=2.0.0
+
 # [5.0.0](https://github.com/funda-frontend/tailwind-config/compare/v4.4.0...v5.0.0) (2021-03-01)
 
 

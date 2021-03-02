@@ -1,6 +1,6 @@
 {
   "name": "@funda/tailwind-config",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "tailwind configuration for funda",
   "main": "index.js",
   "repository": "github:funda-frontend/tailwind-config",
